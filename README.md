@@ -1,7 +1,7 @@
 # Wallpaper-Manager-
 ## The First My Android Project I develop Android Studio and Java
 
-# [İndirilebilir Apk Versiyon](https://drive.google.com/open?id=1MDiTM-3-7Cof1J5x_ykbNZ6RfjSzExbX)
+# [Download Apk Version](https://drive.google.com/open?id=1MDiTM-3-7Cof1J5x_ykbNZ6RfjSzExbX)
 
 
 
